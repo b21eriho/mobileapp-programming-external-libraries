@@ -8,4 +8,18 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="CustomRedToast">
+        <item name="stTextBold">true</item>
+        <item name="stTextSize">25sp</item>
+        <item name="stColorBackground">#FF0000</item>
+        <item name="stTextColor">#000000</item>
+    </style>
+
+    <style name="CustomBlueToast">
+        <item name="stTextBold">false</item>
+        <item name="stTextSize">5sp</item>
+        <item name="stColorBackground">#0000FF</item>
+        <item name="stTextColor">#FFFFFF</item>
+    </style>
+
 </resources>
